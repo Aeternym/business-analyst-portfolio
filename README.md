@@ -2,9 +2,9 @@
 
 **Business Analysis · Requirements Engineering · Process Modeling**
 
-Я бизнес-аналитик с техническим бэкграундом во фронтенд-разработке и тестировании. Это портфолио моих **учебных аналитических проектов**: обследования процессов, требования, модели AS-IS / TO-BE, сценарии использования и документация решений.
+Я бизнес-аналитик с опытом работы тестировщиком ПО и фронтенд-разработчиком. Это портфолио моих **учебных аналитических проектов**: обследования процессов, требования, модели AS-IS / TO-BE, сценарии использования и документация решений.
 
-> **EN:** Business analysis portfolio of Dmitrii Tolkachev. I combine frontend-development experience with formal training in requirements elicitation, BPMN/UML modeling, customer journeys, acceptance criteria, and QA. The projects documented here are educational case studies, not claims of commercial implementations.
+> **EN:** Business analysis portfolio of Dmitrii Tolkachev. I started my career in software testing, later worked as a frontend developer, and now apply both perspectives in business analysis. My project work covers requirements elicitation, BPMN/UML, customer journeys, use cases, and acceptance criteria. These are educational case studies, not claims of commercial implementations.
 
 ## Проекты
 
@@ -27,7 +27,7 @@
 
 ## Мой технический бэкграунд
 
-До изучения бизнес-анализа я работал фронтенд-разработчиком. Это помогает мне понимать реализацию веб-интерфейсов, взаимодействие с API и то, как требования превращаются в задачи разработки.
+Мой путь начался с работы **тестировщиком ПО**: функциональные проверки, анализ требований и тестовых сценариев. Затем я работал **фронтенд-разработчиком**, занимаясь интерфейсами и взаимодействием с API. Теперь, работая **бизнес-аналитиком**, объединяю эти навыки: понимаю, как требования превращаются в задачи разработки, заранее учитываю негативные сценарии и формулирую проверяемые критерии приёмки.
 
 - [Web Larek](https://github.com/Aeternym/web-larek-frontend) — интернет-магазин на TypeScript: каталог, корзина, оформление заказов, событийная архитектура.
 - [Mesto](https://github.com/Aeternym/mesto-project-ff) — JavaScript-приложение с REST API, формами, модальными окнами и лайками.
