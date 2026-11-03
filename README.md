@@ -2,7 +2,7 @@
 
 **Business Analysis · Requirements Engineering · Data Governance · Data Quality**
 
-Я бизнес-аналитик с опытом работы тестировщиком ПО и фронтенд-разработчиком. Это портфолио моих **учебных аналитических кейсов и технических проектов**: анализ процессов, требования, модели данных, управление метриками и проверки качества.
+В IT и e-commerce с 2022 года: начинал с тестирования, затем занимался frontend-разработкой. Сейчас развиваюсь в бизнес-анализе, опираясь на понимание требований, API, интеграций и жизненного цикла изменений. Здесь собраны **учебные аналитические кейсы и технические прототипы**: модели процессов, требования, работа с данными и автоматические проверки качества.
 
 > **EN:** Business analysis portfolio of Dmitrii Tolkachev. I started my career in software testing, later worked as a frontend developer, and now apply both perspectives in business analysis. My portfolio covers requirements, BPMN/UML, master data, metric governance, and data quality. The technical demonstrations use synthetic data; no production deployment is claimed.
 
