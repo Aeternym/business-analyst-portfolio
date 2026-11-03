@@ -1,4 +1,4 @@
-# Дмитрий Толкачёв — портфолио бизнес-аналитика
+# Дмитрий Толкачев — портфолио бизнес-аналитика
 
 **Business Analysis · Requirements Engineering · Data Governance · Data Quality**
 
