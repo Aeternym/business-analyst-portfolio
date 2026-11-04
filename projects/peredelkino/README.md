@@ -97,6 +97,7 @@ flowchart TD
 
 - [User stories и критерии приёмки](artifacts/user-stories-and-acceptance.md) — пять показательных историй из 24.
 - [UC-04: оплата банковской картой](artifacts/use-case-card-payment.md) — основной и альтернативные сценарии.
+- [Риски и бизнес-правила](artifacts/risks-and-rules.md) — отказы интеграций, работа с остатками, возвраты и ограничения.
 
 ## Что важно о статусе работы
 
