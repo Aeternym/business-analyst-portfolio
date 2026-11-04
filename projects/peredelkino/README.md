@@ -96,6 +96,7 @@ flowchart TD
 ## Примеры требований из выпускной работы
 
 - [User stories и критерии приёмки](artifacts/user-stories-and-acceptance.md) — пять показательных историй из 24.
+- [UC-04: оплата банковской картой](artifacts/use-case-card-payment.md) — основной и альтернативные сценарии.
 
 ## Что важно о статусе работы
 
